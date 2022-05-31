@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'trúc quỳnh à😘!',
+    introTitle: 'dương thu à😘!',
     introDesc: `Trái đất vốn lạ thường😒
     Mà sao em cứ đi nhầm đường😢
     Lạc vào tim anh lẻ loi🤣
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'call video tắm với anh nha❤️.',
+    messDesc: 'call video với anh nha❤️.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100027435943424'
 }
